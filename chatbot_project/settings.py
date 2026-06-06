@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # ChatterBot Django ORM integration for conversation storage
     'chatterbot.ext.django_chatterbot',
+    'terminal_chat',
 ]
 
 MIDDLEWARE = [
