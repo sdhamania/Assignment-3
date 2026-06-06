@@ -1,6 +1,7 @@
 django>=4.2,<4.3
 chatterbot>=1.2,<2.0
 chatterbot-corpus>=1.2.2,<1.3.0
+pyyaml>=6.0,<7.0
 click>=8.0
 # English language model required by ChatterBot's spaCy tagger
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
